@@ -2,10 +2,11 @@
 
 이 프로젝트는 fizzbuzz와 git의 conventional commit을 연습하는 저장소입니다.
 [See Demo](https://www.google.com/)
-##Prerequisites
+
+## Prerequisites
 
 - python==3.11.0
--fastapi
+- fastapi
 
 ## How to start
 
