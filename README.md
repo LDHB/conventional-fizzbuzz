@@ -15,7 +15,6 @@
 ```shell
 $ git clone {username/repo addr}
 $ cd {repo addr}
-
 $ python fizzbuzz.py
 ```
 
